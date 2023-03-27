@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ANTLRGenerationPreferences">
+    <option name="perGrammarGenerationSettings">
+      <list>
+        <PerGrammarGenerationSettings>
+          <option name="fileName" value="$PROJECT_DIR$/src/main/java/org/example/alf.g4" />
+          <option name="autoGen" value="true" />
+          <option name="outputDir" value="C:\Users\Alexa\Documents\alf\TP3-Solutions\src\main\generatedFiles" />
+          <option name="libDir" value="" />
+          <option name="encoding" value="" />
+          <option name="pkg" value="com.alf.parser" />
+          <option name="language" value="Java" />
+          <option name="generateVisitor" value="true" />
+        </PerGrammarGenerationSettings>
+        <PerGrammarGenerationSettings>
+          <option name="fileName" value="$PROJECT_DIR$/src/main/java/org/example/ex1/alf.g4" />
+          <option name="autoGen" value="true" />
+          <option name="outputDir" value="C:\Users\Alexa\Documents\alf\TP3-Solutions\src\main\generatedFiles" />
+          <option name="libDir" value="" />
+          <option name="encoding" value="" />
+          <option name="pkg" value="com.alfEx1.parser" />
+          <option name="language" value="Java" />
+          <option name="generateVisitor" value="true" />
+        </PerGrammarGenerationSettings>
+        <PerGrammarGenerationSettings>
+          <option name="fileName" value="$PROJECT_DIR$/src/main/java/org/example/ex2/alf.g4" />
+          <option name="autoGen" value="true" />
+          <option name="outputDir" value="C:\Users\Alexa\Documents\alf\TP3-Solutions\src\main\generatedFiles" />
+          <option name="libDir" value="" />
+          <option name="encoding" value="" />
+          <option name="pkg" value="com.alfEx2.parser" />
+          <option name="language" value="Java" />
+          <option name="generateVisitor" value="true" />
+        </PerGrammarGenerationSettings>
+        <PerGrammarGenerationSettings>
+          <option name="fileName" value="$PROJECT_DIR$/src/main/java/org/example/ex5/alf.g4" />
+          <option name="autoGen" value="true" />
+          <option name="outputDir" value="C:\Users\Alexa\Documents\alf\TP3-Solutions\src\main\generatedFiles" />
+          <option name="libDir" value="" />
+          <option name="encoding" value="" />
+          <option name="pkg" value="com.alfEx5.parser" />
+          <option name="language" value="Java" />
+          <option name="generateVisitor" value="true" />
+        </PerGrammarGenerationSettings>
+        <PerGrammarGenerationSettings>
+          <option name="fileName" value="$PROJECT_DIR$/src/main/java/org/example/ex6/alf.g4" />
+          <option name="autoGen" value="true" />
+          <option name="outputDir" value="C:\Users\Alexa\Documents\alf\TP3-Solutions\src\main\generatedFiles" />
+          <option name="libDir" value="" />
+          <option name="encoding" value="" />
+          <option name="pkg" value="com.alfEx6.parser" />
+          <option name="language" value="Java" />
+          <option name="generateVisitor" value="true" />
+        </PerGrammarGenerationSettings>
+        <PerGrammarGenerationSettings>
+          <option name="fileName" value="$PROJECT_DIR$/src/main/java/org/example/ex7/alf.g4" />
+          <option name="autoGen" value="true" />
+          <option name="outputDir" value="C:\Users\Alexa\Documents\alf\TP3-Solutions\src\main\generatedFiles" />
+          <option name="libDir" value="" />
+          <option name="encoding" value="" />
+          <option name="pkg" value="com.alfEx7.parser" />
+          <option name="language" value="Java" />
+          <option name="generateVisitor" value="true" />
+        </PerGrammarGenerationSettings>
+      </list>
+    </option>
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_19" default="true" project-jdk-name="19" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
